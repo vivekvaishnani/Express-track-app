@@ -1,0 +1,27 @@
+{
+  "name": "React-native-track-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekvaishnani/React-native-track-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekvaishnani/React-native-track-app/issues"
+  },
+  "homepage": "https://github.com/vivekvaishnani/React-native-track-app#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.8.3",
+    "nodemon": "^2.0.2"
+  }
+}
